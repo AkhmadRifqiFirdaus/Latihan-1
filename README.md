@@ -72,6 +72,21 @@ Server repository yang akan kita gunakan adalah http://github.com
 -Pada laman github, klik tombol start a project, atau
 -Dari menu (icon +) klik New Repository
 -Membuat repository server
+![ss1](https://user-images.githubusercontent.com/46735232/51580698-fce2fb00-1ef7-11e9-85f4-987896f842c2.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -Isi nama repositorynya, misal: labpy1.
 -lalu klik tombol Create repository
 -Menambahkan Remote Repository
