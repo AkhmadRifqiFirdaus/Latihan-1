@@ -72,21 +72,6 @@ Server repository yang akan kita gunakan adalah http://github.com
 -Pada laman github, klik tombol start a project, atau
 -Dari menu (icon +) klik New Repository
 -Membuat repository server
-![ss1](https://user-images.githubusercontent.com/46735232/51580698-fce2fb00-1ef7-11e9-85f4-987896f842c2.JPG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -Isi nama repositorynya, misal: labpy1.
 -lalu klik tombol Create repository
 -Menambahkan Remote Repository
@@ -113,5 +98,8 @@ Kegunaan file README.md
 Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
 Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
 Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
+
+Dan berikut Sreenshoot langkah-langkah membuat Repositories
+
 
 
