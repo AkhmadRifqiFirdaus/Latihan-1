@@ -100,6 +100,7 @@ Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang 
 Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
 
 Dan berikut Sreenshoot langkah-langkah membuat Repositories
+![ss1](https://user-images.githubusercontent.com/46735232/51580698-fce2fb00-1ef7-11e9-85f4-987896f842c2.JPG)
 
 
 
